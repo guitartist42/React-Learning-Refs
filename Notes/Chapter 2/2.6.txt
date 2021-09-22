@@ -1,0 +1,23 @@
+Properties are like "variables attached to classes/objects
+
+ES6 requires constructor() function, but with next generation javascript
+
+e.g.
+
+constructor(){
+    this.myProperty = 'value;
+}
+becomes :
+
+myProperty = 'value'
+
+----------------
+Methods are like "functions attached to classes/objects
+
+myMethod(){
+    ...
+}
+
+becomes:
+
+myMethod = () => {...}

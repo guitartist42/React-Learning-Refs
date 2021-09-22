@@ -1,0 +1,18 @@
+Spread and Rest Operators
+
+...
+
+
+Spread, splits up array elements OR object Properties
+e.g. 
+
+const newArray =[...oldArray, 1, 2]
+//here it pulls out all the elements from old array
+
+const newObject = {...oldObject, newPrpo:5}
+
+//also used to merge list of function arguments into an array
+
+function sortArgs(...Args){
+    return args.sort;
+}

@@ -1,0 +1,11 @@
+Arrow Function:
+
+function myFnc(){
+    ...
+}
+
+
+//solves issues with the "this" keyword in javascript
+const myFnc =()=>{
+    ...
+}

@@ -1,0 +1,4 @@
+Var - Let vs Const
+
+Try using let for changing variables and use const for constant variables.
+You get errors when changing const variables, for instance.

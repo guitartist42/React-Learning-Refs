@@ -1,0 +1,7 @@
+Exports and Imports
+
+Code is modular, we use import statements to import
+components from other files in our code or even external libaries.
+
+our code in files usually exports an object (which can then be imported to
+another file).
