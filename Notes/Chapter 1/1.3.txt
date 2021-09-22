@@ -1,0 +1,7 @@
+-Using only javascript for building web applications,
+requires several lines of code for simple actions, writing every tiny step
+and as a developer reinventing the wheel over and over is a waste of time for us.
+-React allows us to embed custom HTML elements in javascript
+-low-level commands like (document.createElement, modalCancelAction, etc not needed)
+
+-React is a declarative, component-focused approach

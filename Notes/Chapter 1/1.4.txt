@@ -1,0 +1,10 @@
+-React does not use multiple pages,it just changes what appears on
+the user's screen. 
+
+-React can control the entire frontend of a web application ("SPA" approach), 
+or single-page-application.
+- Server only sends one HTML page which React takes over and control the UI.
+
+-React can also use the "Widget" approach on a multi-page-application. In this 
+case, pages are still rendered on and served by a backend server.
+-React can therefore control parts of HTML pages or entire pages

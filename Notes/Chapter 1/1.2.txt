@@ -1,0 +1,9 @@
+-Traditionally in web apps, click a link and wait for a new page to load, 
+click a button and wait for some action to complete.
+-Request and Response(HTML page) cycle. 
+
+-Javascript runs in the browser on the loaded page
+-manipulates HTML structure (DOM) of page
+- React is a javascript library, it is a client-side javascript library, builds modern
+    reactive UIs for web. 
+- javascript doesn't need a response to modify the page, directly manipulates the DOM.

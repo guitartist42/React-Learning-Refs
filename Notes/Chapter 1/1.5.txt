@@ -1,0 +1,8 @@
+React Alternatives:
+
+-React leans and focuses as a component-based UI library. Ceartain features like
+routing are added via community packages.
+-Angular is a complete component-based UI framework, packed with features. Uses 
+typescript. Can be overkill for smaller projects...
+-Vue is a complete component based UI. Inludes most core feature but is less popular
+than React and Angular.
