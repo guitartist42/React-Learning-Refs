@@ -1,0 +1,20 @@
+Module Intro
+
+React Core Syntax/JSX
+Working with components
+Working with data
+------------------------
+React simplifies complex interactive and reactive user interfaces
+-component based framework-- reusable, less code, concern separability (
+    not too many thing in one file
+)
+-allows splitting code into smaller and easier to work with files
+----------------------
+HTML/CSS/JS -> React
+
+components consist of HTML and Javascript, styled by CSS
+--React uses a declarative approach,
+    -always define desired target states and React figures out the
+    actual Javascript DOM instructions
+    -build custom HTML elements
+
